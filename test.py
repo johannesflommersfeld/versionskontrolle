@@ -1,2 +1,2 @@
 #!/usr/bin/python
-print "Go and fuck youself"
+print "Go and fuck youself!!!!"
